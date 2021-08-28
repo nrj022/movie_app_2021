@@ -1,3 +1,3 @@
-# Movie App 2021
+# Movie App
 
 React JS Fundamentals Course
